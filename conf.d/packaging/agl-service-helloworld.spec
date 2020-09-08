@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ###########################################################################
-Name:    agl-service-helloworld
+Name:    agl-service-helloworld-internal
 #Hexsha: cde438aed1e990b69d4ed2fb3aa3b4ba22e78a6a
 Version: 8.99.6
 Release: 13%{?dist}
